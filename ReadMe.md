@@ -2,5 +2,5 @@
 
 ## Informadhion and Links used in this project
   
-  [Page of used source](https://github.com/SergeyPopovGit/Spectrometer/blob/main/External_source.md)
+ -  [Used source page](https://github.com/SergeyPopovGit/Spectrometer/blob/main/External_source.md)
  
