@@ -10,3 +10,4 @@
 ## Spectrometers
   - [High resolution DIY spectrometer](https://storage.googleapis.com/production-public-files/public/system/images/photos/000/026/339/original/DSLR_spectrometer.pdf)
   - [PySpectrometer](https://github.com/leswright1977/PySpectrometer) 
+  - [PySpectrometer_small  V](https://www.youtube.com/watch?v=Tw3HJEhE2dI)
